@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @Sylvizurix
-- 🌱 I’m currently learning C and Python
+- Hi there im @Sylvizurix idk
+
+im an absolute amatour at coding
